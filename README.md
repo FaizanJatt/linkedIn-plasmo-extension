@@ -1,4 +1,5 @@
 # ChatGPT Writer Take-Home Coding Assignment
+[![Image Alt Text Here](https://img.youtube.com/vi/Fs9fbXMCvPY/0.jpg)](https://www.youtube.com/watch?v=Fs9fbXMCvPY)
 
 https://chatgptwriter.ai
 
