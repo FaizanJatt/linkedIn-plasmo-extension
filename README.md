@@ -2,7 +2,7 @@
 
 ## Demo Gif playback here:
 [Image Alt Text Here
-]](https://github.com/FaizanJatt/linkedIn-plasmo-extension/blob/main/demonstration.gif)
+](https://github.com/FaizanJatt/linkedIn-plasmo-extension/blob/main/demonstration.gif)
 
 ## Watch on youtube ?
 [![Image Alt Text Here](https://img.youtube.com/vi/Fs9fbXMCvPY/0.jpg)](https://www.youtube.com/watch?v=Fs9fbXMCvPY)
